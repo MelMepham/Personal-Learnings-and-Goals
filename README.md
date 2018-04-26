@@ -3,7 +3,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 
 
 ### 🌍 The Pragmatic Programmer Book 
-#### A Prtagmatic Philopsophy
+#### A Pragmatic Philopsophy
 - [ ] The Cat Ate My Source Code
 - [ ] Software Entropy
 - [ ] Stone Soup and Boiled Frogs
@@ -28,10 +28,10 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] Code Generators
 
 ### 🐙 CSS and Styling
-- [ ] 
+- [ ] Add Something
 
 ### 🐳 SVG and Animation
-- [ ] 
+- [ ] Add Something
 
 ### ❄️ Math
-- [ ] 
+- [ ] Add Something
