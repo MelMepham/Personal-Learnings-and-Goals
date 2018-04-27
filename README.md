@@ -1,5 +1,6 @@
 # Personal-Learnings-and-Goals
 Here is where I want to put all of the things I want to read, watch and be inspired by - This was inspired by WinkerVSBecks Personal-Goals
+[emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 
 ### 🌍 The Pragmatic Programmer Book 
