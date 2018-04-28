@@ -5,10 +5,10 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 
 ### 🌍 The Pragmatic Programmer Book 
 #### A Pragmatic Philopsophy
-- [ ] The Cat Ate My Source Code
-- [ ] Software Entropy
-- [ ] Stone Soup and Boiled Frogs
-- [ ] Good-Enough Software
+- [X] The Cat Ate My Source Code
+- [X] Software Entropy
+- [X] Stone Soup and Boiled Frogs
+- [X] Good-Enough Software
 - [ ] Your Knowledge Portfolio
 - [ ] Communicate!
 #### A Pragmatic Approach
