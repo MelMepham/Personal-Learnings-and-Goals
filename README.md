@@ -28,6 +28,11 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] Test Manipulation
 - [ ] Code Generators
 
+### :heart_eyes: Devs to look up
+- [ ] mattdesl
+- [ ] hughsk
+- [ ] hughskennedy
+
 ### :woman: Learning and Job Hunting
 - [ ] [Laurie Voss on Stuff Everybody Knows Except You pt. 1](https://www.youtube.com/watch?v=JIJZnF_L5KI)
 
