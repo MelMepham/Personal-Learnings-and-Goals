@@ -39,3 +39,6 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 
 ### ❄️ Math
 - [ ] Add Something
+
+### :neckbeard: Testing and Refactoring 
+- [ ] [React Testing](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
