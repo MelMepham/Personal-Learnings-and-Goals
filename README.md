@@ -5,12 +5,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 
 ### 🌍 The Pragmatic Programmer Book 
 #### A Pragmatic Philopsophy
-- [X] The Cat Ate My Source Code
-- [X] Software Entropy
-- [X] Stone Soup and Boiled Frogs
-- [X] Good-Enough Software
-- [ ] Your Knowledge Portfolio
-- [ ] Communicate!
+- [X] Read the chapter
 #### A Pragmatic Approach
 - [ ] The Evils of Duplication
 - [ ] Orthogonality
