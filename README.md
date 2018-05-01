@@ -33,6 +33,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 
 ### 🐙 CSS and Styling
 - [ ] [CSS at scale](https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
+- [ ] [Generatitive art with CSS](https://www.youtube.com/watch?v=xatWR8MXeJM)
 
 ### 🐳 SVG and Animation
 - [ ] Add Something
