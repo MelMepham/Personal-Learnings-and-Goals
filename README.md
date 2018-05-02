@@ -9,8 +9,8 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 #### A Pragmatic Approach
 - [X] Read the chapter
 #### The Basic Tools
-- [ ] The Power of Plain Text
-- [ ] Shell Games
+- [X] The Power of Plain Text
+- [X] Shell Games
 - [ ] Power Editing
 - [ ] Source Code Control
 - [ ] Debugging
