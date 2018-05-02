@@ -7,13 +7,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 #### A Pragmatic Philopsophy
 - [X] Read the chapter
 #### A Pragmatic Approach
-- [X] The Evils of Duplication
-- [ ] Orthogonality
-- [ ] Reversibility
-- [ ] Tracer Bullets
-- [ ] Prototypes and Post-it Notes
-- [ ] Domain Languages
-- [ ] Estimating
+- [X] Read the chapter
 #### The Basic Tools
 - [ ] The Power of Plain Text
 - [ ] Shell Games
@@ -22,6 +16,16 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] Debugging
 - [ ] Test Manipulation
 - [ ] Code Generators
+#### Pragmatic Paranoia
+- [ ] Design by Contract
+- [ ] Deap Programs Tell No Lies
+- [ ] Assertive Programming
+- [ ] When to Use Exceptions
+- [ ] How to Balancd Resources
+#### Bend or Break
+#### While you are Coding
+#### Before the Project
+#### Pragmatic Projects
 
 ### :heart_eyes: Devs to look up
 - [ ] mattdesl
