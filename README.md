@@ -33,7 +33,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] hughskennedy
 
 ### :woman: Learning and Job Hunting
-- [ ] [Laurie Voss on Stuff Everybody Knows Except You pt. 1](https://www.youtube.com/watch?v=JIJZnF_L5KI)
+- [X] [Laurie Voss on Stuff Everybody Knows Except You pt. 1](https://www.youtube.com/watch?v=JIJZnF_L5KI)
 - [ ] [Laurie Voss on Stuff Everybody Knows Except You pt. 2](https://www.youtube.com/watch?v=4H8VTCSbYQg)
 - [ ] [Ethical Tech](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 
