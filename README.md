@@ -38,15 +38,22 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] [Ethical Tech](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 - [X] [REST API quick reminder video](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
+### Revise EDA
+#### Week 3 - DB and Knex
+- [ ] [Knex todo CLI](https://github.com/kahu-2018/knex-todo-cli)
+- [ ] [Knex joins](https://github.com/kahu-2018/knex-joins-stories)
+- [ ] [Knex Relationships](https://github.com/kahu-2018/knex-relationships-stories)
+#### Week 5 - API's
+
 ### 🐙 CSS and Styling
 - [ ] [CSS at scale](https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
 - [ ] [Generatitive art with CSS](https://www.youtube.com/watch?v=xatWR8MXeJM)
+
+### :neckbeard: Testing and Refactoring 
+- [ ] [React Testing](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
 
 ### 🐳 SVG and Animation
 - [ ] Add Something
 
 ### ❄️ Math
 - [ ] Add Something
-
-### :neckbeard: Testing and Refactoring 
-- [ ] [React Testing](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
