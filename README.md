@@ -37,6 +37,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] [Laurie Voss on Stuff Everybody Knows Except You pt. 2](https://www.youtube.com/watch?v=4H8VTCSbYQg)
 - [ ] [Ethical Tech](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 - [X] [REST API quick reminder video](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- [ ] [Making a case for Diversity](https://www.themandarin.com.au/91690-making-the-case-for-diversity-what-is-the-evidence/)
 
 ### :smiling_imp: Revise EDA
 #### Week 3 - DB and Knex
