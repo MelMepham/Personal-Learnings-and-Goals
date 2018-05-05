@@ -36,6 +36,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [X] [Laurie Voss on Stuff Everybody Knows Except You pt. 1](https://www.youtube.com/watch?v=JIJZnF_L5KI)
 - [ ] [Laurie Voss on Stuff Everybody Knows Except You pt. 2](https://www.youtube.com/watch?v=4H8VTCSbYQg)
 - [ ] [Ethical Tech](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
+- [X] [REST API quick reminder video](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
 ### 🐙 CSS and Styling
 - [ ] [CSS at scale](https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
