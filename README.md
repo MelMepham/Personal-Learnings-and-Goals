@@ -38,11 +38,14 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] [Ethical Tech](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)
 - [X] [REST API quick reminder video](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
-### Revise EDA
+### :smiling_imp: Revise EDA
 #### Week 3 - DB and Knex
 - [ ] [Knex todo CLI](https://github.com/kahu-2018/knex-todo-cli)
+- [ ] Testing
 - [ ] [Knex joins](https://github.com/kahu-2018/knex-joins-stories)
+- [ ] Testing
 - [ ] [Knex Relationships](https://github.com/kahu-2018/knex-relationships-stories)
+- [ ] Testing
 #### Week 5 - API's
 
 ### 🐙 CSS and Styling
