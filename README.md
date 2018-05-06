@@ -41,7 +41,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 
 ### :smiling_imp: Revise EDA
 #### Week 3 - DB and Knex
-- [ ] [Knex todo CLI](https://github.com/kahu-2018/knex-todo-cli)
+- [X] [Knex todo CLI](https://github.com/kahu-2018/knex-todo-cli)
 - [ ] Testing
 - [ ] [Knex joins](https://github.com/kahu-2018/knex-joins-stories)
 - [ ] Testing
