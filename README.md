@@ -11,7 +11,7 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 #### The Basic Tools
 - [X] The Power of Plain Text
 - [X] Shell Games
-- [ ] Power Editing
+- [X] Power Editing
 - [ ] Source Code Control
 - [ ] Debugging
 - [ ] Test Manipulation
