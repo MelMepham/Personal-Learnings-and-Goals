@@ -59,5 +59,5 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 ### 🐳 SVG and Animation
 - [ ] Add Something
 
-### ❄️ Math
-- [ ] Add Something
+### ❄️ Things to go back to
+- [x] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
