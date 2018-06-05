@@ -60,5 +60,6 @@ Here is where I want to put all of the things I want to read, watch and be inspi
 - [ ] Add Something
 
 ### ❄️ Things to go back to
+- [ ] [Think twice before you use a hamburger](https://uxdesign.cc/death-by-hamburger-2d1db115352a)
 - [ ] [UI Forms - do's and don'ts and the whys](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [x] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
