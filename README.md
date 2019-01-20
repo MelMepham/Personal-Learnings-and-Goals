@@ -2,6 +2,12 @@
 Here is where I want to put all of the things I want to read, watch and be inspired by - This was inspired by WinkerVSBecks Personal-Goals
 [emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
+### 2019 Goals
+#### Personal
+This is a work in progress around what I want to achieve this year.
+- Learn processing
+- Learn SVG animations
+
 
 ### 🌍 The Pragmatic Programmer Book 
 #### A Pragmatic Philopsophy
