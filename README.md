@@ -8,6 +8,9 @@ This is a work in progress around what I want to achieve this year.
 - Learn processing
 - Learn SVG animations
 
+### Angular
+#### Animations
+= [ ] [Animate dynamic components](https://netbasal.com/animate-dynamic-components-in-angular-10681438bdd4)
 
 ### 🌍 The Pragmatic Programmer Book 
 #### A Pragmatic Philopsophy
